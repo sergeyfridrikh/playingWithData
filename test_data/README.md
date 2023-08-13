@@ -9,7 +9,7 @@ containing data related to:
 * antibiotic resistance gene detection,
 * organism cell counts.
 
-For sample antibiotic resistance we looked at resistance to each antibiotic 
+For sample antibiotic resistance we looked at resistance to each of the antibiotics 
 independently. 
 
 Statistics for antibiotic resistance (AR) gene detection is presented in a bat chart.
